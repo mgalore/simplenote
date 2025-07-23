@@ -1,4 +1,4 @@
-from . import __version__ as app_version
+from simplenote import __version__ as app_version
 
 app_name = "simplenote"
 app_title = "Simple Note"

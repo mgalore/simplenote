@@ -1,0 +1,2 @@
+# Patches for simplenote app
+# Each line should be in the format: module_name.path.to.patch_file
