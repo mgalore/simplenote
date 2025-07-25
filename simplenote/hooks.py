@@ -1,4 +1,4 @@
-from simplenote import __version__ as app_version
+from . import __version__ as app_version
 
 app_name = "simplenote"
 app_title = "Simple Note"
@@ -6,6 +6,9 @@ app_publisher = "Your Name"
 app_description = "A simple note-taking app built with Frappe"
 app_email = "your.email@example.com"
 app_license = "MIT"
+
+# Required apps
+required_apps = ["frappe"]
 
 # Includes in <head>
 # ------------------

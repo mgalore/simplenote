@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include simplenote *.css
+recursive-include simplenote *.csv
+recursive-include simplenote *.html
+recursive-include simplenote *.ico
+recursive-include simplenote *.js
+recursive-include simplenote *.json
+recursive-include simplenote *.md
+recursive-include simplenote *.png
+recursive-include simplenote *.py
+recursive-include simplenote *.svg
+recursive-include simplenote *.txt
+recursive-exclude simplenote *.pyc

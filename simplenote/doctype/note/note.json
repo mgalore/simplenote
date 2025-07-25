@@ -45,8 +45,8 @@
    "label": "Created By",
    "options": "User",
    "read_only": 1
-  } 
- {
+  },
+  {
    "fieldname": "modified_by",
    "fieldtype": "Link",
    "label": "Modified By",
