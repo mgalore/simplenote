@@ -1,1 +1,1 @@
-frappe
+# No additional requirements - frappe is provided by Frappe Cloud

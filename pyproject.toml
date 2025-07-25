@@ -9,9 +9,7 @@ authors = [
 ]
 dynamic = ["version", "description"]
 readme = "README.md"
-dependencies = [
-    "frappe"
-]
+dependencies = []
 requires-python = ">=3.10"
 
 [project.urls]

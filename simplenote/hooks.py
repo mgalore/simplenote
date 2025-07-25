@@ -7,9 +7,6 @@ app_description = "A simple note-taking app built with Frappe"
 app_email = "your.email@example.com"
 app_license = "MIT"
 
-# Required apps
-required_apps = ["frappe"]
-
 # Includes in <head>
 # ------------------
 
